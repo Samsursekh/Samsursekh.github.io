@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Samsursekh.github.io/static/css/main.34268f05.css",
+    "main.js": "/Samsursekh.github.io/static/js/main.f0bcc55b.js",
+    "static/js/787.128fc6e9.chunk.js": "/Samsursekh.github.io/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/Samsursekh.github.io/index.html",
+    "main.34268f05.css.map": "/Samsursekh.github.io/static/css/main.34268f05.css.map",
+    "main.f0bcc55b.js.map": "/Samsursekh.github.io/static/js/main.f0bcc55b.js.map",
+    "787.128fc6e9.chunk.js.map": "/Samsursekh.github.io/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34268f05.css",
+    "static/js/main.f0bcc55b.js"
+  ]
+}
